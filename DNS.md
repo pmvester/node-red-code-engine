@@ -66,6 +66,8 @@ Go to the "Triggers" tab and clock "Create".
 
 ![i016.png](/images/i016.png)
 
-Fill in the "Trigger URL" and select the "Actions" that have been create for your domain in the previous step.
+Fill in the "Trigger URL" and select the "Actions" that have been create for your domain in the previous step. Click "Save".
 
 ![i017.png](/images/i017.png)
+
+You should now be able to access your application using the FQDN that you specified as the "Trigger action". 
