@@ -56,7 +56,7 @@ async function directRequestToCodeEngineApp(request) {
 }
 ```
 
-Replace the example code with the code snippet from the previous step. In the pasted code, replace `<<application URL>>` with the application URL that you took a note of in the first step.
+Replace the example code with the code snippet from the previous step. In the pasted code, replace `<<application URL>>` with the application URL that you took note of in the first step.
 
 Click on "Save".
 
