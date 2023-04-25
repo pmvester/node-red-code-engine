@@ -1,6 +1,6 @@
 # Setting up Cloud Internet Services
 
-Start by copying the application URL and make a note of it, it is needed later.
+Start by copying the application URL and make a note of it, it will be needed later.
 
 ![i010.png](/images/i010.png)
 
