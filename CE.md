@@ -1,4 +1,4 @@
-# Node-RED on IBM Cloud Code Engine
+# Instantiating Node-RED on IBM Cloud Code Engine
 
 Start by creating a resource group. (This is optional but a good practice.)
 
