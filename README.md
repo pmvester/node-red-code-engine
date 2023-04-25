@@ -16,7 +16,7 @@ Fill in the required information but do not press the "Create" button just yet.
 
 ![i004.png](/images/i004.png)
 
-Scroll down and change the runtime settings and then press the "Create" button.
+Scroll down and change the runtime settings. Depending on you anticipated workload you may want to consider a larger or smaller configuration for "CPU and memory". When done press the "Create" button.
 
 ![i005.png](/images/i005.png)
 
