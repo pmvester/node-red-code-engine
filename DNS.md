@@ -61,5 +61,11 @@ Replace the example code with the code snippet from the previous step. In the pa
 Click on "Save".
 
 ![i015.png](/images/i015.png)
+
+Go to the "Triggers" tab and clock "Create".
+
 ![i016.png](/images/i016.png)
+
+Fill in the "Trigger URL" and select the "Actions" that have been create for your domain in the previous step.
+
 ![i017.png](/images/i017.png)
