@@ -1,6 +1,6 @@
 # Node-RED on IBM Cloud Code Engine
 
-Start by creating a resource group.
+Start by creating a resource group. (This is optional but a good practice.)
 
 ![i001.png](/images/i001.png)
 
