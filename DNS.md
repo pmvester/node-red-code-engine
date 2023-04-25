@@ -16,6 +16,10 @@ Add a CNAME record with the name of your service and fill in the application URL
 
 ![i013.png](/images/i013.png)
 
+Set the "Proxy" slide button for the created entry to its enabled state.
+
+![i013b.png](/images/i013b.png)
+
 Navigate to the "Edge functions" section and select the "Actions" tab and click the "Create" button.
 
 ![i014.png](/images/i014.png)
