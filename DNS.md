@@ -69,7 +69,7 @@ Go to the "Triggers" tab and click "Create".
 
 ![i016.png](/images/i016.png)
 
-Fill in the "Trigger URL" and select the "Actions" that have been create for your domain in the previous step. Click "Save".
+Fill in the "Trigger URL" and select the "Actions" that have been created for your domain in the previous step. Click "Save".
 
 ![i017.png](/images/i017.png)
 
