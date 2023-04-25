@@ -1,5 +1,4 @@
-# Node-RED on IBM Cloud Code Engine
-## Setting up DNS to shield application and provide valid certificates.
+# Setting up Cloud Internet Services
 
 Start by copying the application URL and make a note of it, it is needed later.
 
