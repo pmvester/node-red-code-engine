@@ -37,7 +37,8 @@ async function directRequestToCodeEngineApp(request) {
       console.log(`Failed to pass request to '${targetHost}'`, error);
       return await fetch(request);
     }
-}```
+}
+```
 
 ![i015.png](/images/i015.png)
 ![i015.png](/images/i015.png)
