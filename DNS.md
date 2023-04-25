@@ -56,10 +56,10 @@ async function directRequestToCodeEngineApp(request) {
 }
 ```
 
-Replace the example code with the code snippet from the previous step. In the pasted code, replace '<<application URL>>' with the application URL that you took a note of in the first step.
+Replace the example code with the code snippet from the previous step. In the pasted code, replace `<<application URL>>` with the application URL that you took a note of in the first step.
 
 Click on "Save".
 
 ![i015.png](/images/i015.png)
-![i016.png](/images/i015.png)
+![i016.png](/images/i016.png)
 ![i017.png](/images/i017.png)
