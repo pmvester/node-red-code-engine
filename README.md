@@ -28,6 +28,6 @@ In the side pane click on "Application URL".
 
 ![i007.png](/images/i007.png)
 
-You have now successfully instantiated Node-RED on IBM Cloud Code Engine.
+Congratulations! You have now successfully instantiated Node-RED on IBM Cloud Code Engine.
 
 ![i008.png](/images/i008.png)
