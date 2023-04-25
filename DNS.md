@@ -61,7 +61,7 @@ Click on "Save".
 
 ![i015.png](/images/i015.png)
 
-Go to the "Triggers" tab and clock "Create".
+Go to the "Triggers" tab and click "Create".
 
 ![i016.png](/images/i016.png)
 
