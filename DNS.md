@@ -1,6 +1,6 @@
 # Setting up IBM Cloud Internet Services
 
-Start by copying the application URL and make a note of the FQDN (i.e. the address without `https:` and slahses), it will be needed later.
+Start by copying the application URL and make a note of the FQDN (i.e. the URL without `https:` and slashes), it will be needed later.
 
 ![i010.png](/images/i010.png)
 
