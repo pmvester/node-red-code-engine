@@ -2,6 +2,7 @@
 ## Pre-requisites
 - Access to an instance of IBM Cloud Internet Services.
 - Having procured a domain name.
+- Having completed the [Instantiating Node-RED on IBM Cloud Code Engine](CE.md) part.
 
 ## Instructions
 
