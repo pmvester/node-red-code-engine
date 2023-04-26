@@ -1,4 +1,4 @@
-# Setting up Cloud Internet Services
+# Setting up IBM Cloud Internet Services
 
 Start by copying the application URL and make a note of it, it will be needed later.
 
