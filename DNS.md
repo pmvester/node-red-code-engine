@@ -1,4 +1,10 @@
 # Setting up IBM Cloud Internet Services
+## Pre-requisites
+- Access to an instance of IBM Cloud Internet Services.
+- Having procured a domain name.
+- Having some basic familiarity with IBM Cloud Internet Services.
+
+## Instructions
 
 Start by copying the application URL and make a note of the FQDN (i.e. the URL without `https:` and slashes), it will be needed later. E.g. `node-red.11ot3bdcttm5.eu-de.codeengine.appdomain.cloud`
 
