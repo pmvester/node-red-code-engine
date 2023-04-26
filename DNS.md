@@ -2,7 +2,6 @@
 ## Pre-requisites
 - Access to an instance of IBM Cloud Internet Services.
 - Having procured a domain name.
-- Having some basic familiarity with IBM Cloud Internet Services.
 
 ## Instructions
 
