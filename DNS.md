@@ -6,7 +6,7 @@
 
 ## Instructions
 
-Start by copying the application URL and make a note of the FQDN (i.e. the URL without `https:` and slashes), it will be needed later. E.g. `node-red.11ot3bdcttm5.eu-de.codeengine.appdomain.cloud`
+Start by copying the application link/URL of your Code Engine application and make a note of the FQDN (i.e. the URL without `https:` and slashes), it will be needed later. E.g. `node-red.11ot3bdcttm5.eu-de.codeengine.appdomain.cloud`
 
 ![i010.png](/images/i010.png)
 
