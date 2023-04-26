@@ -73,4 +73,4 @@ Fill in the "Trigger URL" and select the "Actions" from the drop-down list that 
 
 ![i017.png](/images/i017.png)
 
-You should now be able to access your application using the FQDN that you have defined, e.g. `https://node-red.imomax.org`.
+You should now be able to access your application using the FQDN that you have just defined, e.g. `https://node-red.imomax.org`.
