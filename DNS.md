@@ -12,7 +12,7 @@ Scroll down and click the "Add" button.
 
 ![i012.png](/images/i012.png)
 
-Add a CNAME record with the name of your service and fill in the the FQDN subset of the application URL that you copied in a previous step. (Strictly speaking, it is sufficient to fill in any valid FQDN as we will override this value in a later step.)
+Add a CNAME record with the name of your service and fill in the the FQDN of the application URL that you copied in a previous step. (Strictly speaking, it is sufficient to fill in any valid FQDN as we will override this value in a later step.)
 
 ![i013.png](/images/i013.png)
 
