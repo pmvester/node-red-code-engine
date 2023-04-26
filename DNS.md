@@ -1,6 +1,6 @@
 # Setting up IBM Cloud Internet Services
 
-Start by copying the application URL and make a note of it, it will be needed later.
+Start by copying the application URL and make a note of the FQDN (i.e. the address without `https:` and slahses), it will be needed later.
 
 ![i010.png](/images/i010.png)
 
@@ -12,7 +12,7 @@ Scroll down and click the "Add" button.
 
 ![i012.png](/images/i012.png)
 
-Add a CNAME record with the name of your service and fill in the the FQDN of the application URL that you copied in the first step. (Strictly speaking, it is sufficient to fill in any valid FQDN as we will override this value in a later step.)
+Add a CNAME record with the name of your service and fill in the the FQDN that you copied in the first step. (Strictly speaking, it is sufficient to fill in any valid FQDN as we will override this value in a later step.)
 
 ![i013.png](/images/i013.png)
 
@@ -34,7 +34,7 @@ addEventListener('fetch', (event) => {
  
 async function directRequestToCodeEngineApp(request) {
     // FQDN of the Code Engine application that should receive the traffic
-    const targetHost = '<<application URL>>';
+    const targetHost = '<<application FQDN>>';
      
     try {
       const url = new URL(request.url);
@@ -59,7 +59,7 @@ async function directRequestToCodeEngineApp(request) {
 }
 ```
 
-Replace the example code with the code snippet that you just copied. In the code, replace `<<application URL>>` with the application URL that you took note of in the first step.
+Replace the example code with the code snippet that you just copied. In the code, replace `<<application FQDN>>` with the FQDN that you took note of in the first step.
 
 Click on "Save".
 
@@ -73,4 +73,4 @@ Fill in the "Trigger URL" and select the "Actions" from the drop-down list that 
 
 ![i017.png](/images/i017.png)
 
-You should now be able to access your application using the FQDN that you have just defined, e.g. `https://node-red.imomax.org`.
+You should now be able to access your application using the new FQDN that you have just defined, e.g. `https://node-red.imomax.org`.
