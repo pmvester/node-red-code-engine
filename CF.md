@@ -20,10 +20,6 @@ Fill in the "Service name" and click "Create Service".
 
 ![i025.png](/images/i025.png)
 
-Click on "Quick edit".
-
-![i026.png](/images/i026.png)
-
 Make a note of the Code Engine public domain name.
 
 ![i027.png](/images/i027.png)
@@ -62,6 +58,10 @@ async function directRequestToCodeEngineApp(request) {
     }
 }
 ```
+
+Click on "Quick edit".
+
+![i026.png](/images/i026.png)
 
 Paste in the code and replace the `<<application FQDN>>` placeholder with the Code Engine public domain name that you took a note of in the previous step. Click "Save and deploy".
 
