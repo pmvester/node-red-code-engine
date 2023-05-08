@@ -4,7 +4,7 @@ Find and click on your domain.
 
 ![i021.png](/images/i021.png)
 
-Click on "Worker Routes".
+Click on "Workers Routes".
 
 ![i022.png](/images/i022.png)
 
@@ -24,7 +24,7 @@ Click on "Quick edit".
 
 ![i026.png](/images/i026.png)
 
-Make a note the Code Engine public domain name.
+Make a note of the Code Engine public domain name.
 
 ![i027.png](/images/i027.png)
 
@@ -63,7 +63,7 @@ async function directRequestToCodeEngineApp(request) {
 }
 ```
 
-Paste in the code and replace the `<<application FQDN>>` placeholder with the Code Engine public domain name that you took a note of in a previous step. Click "Save and deploy".
+Paste in the code and replace the `<<application FQDN>>` placeholder with the Code Engine public domain name that you took a note of in the previous step. Click "Save and deploy".
 
 ![i028.png](/images/i028.png)
 
@@ -83,10 +83,10 @@ You will see that the certificate for the domain is "Initializing".
 
 ![i032.png](/images/i032.png)
 
-Wait until to enter its "Active" state.
+Wait until the certificate is in its "Active" state.
 
 ![i033.png](/images/i033.png)
 
-You new route for the Code Engine is now active! Congratulations!
+Your new route for the Code Engine is now active! Congratulations!
 
 ![i034.png](/images/i034.png)
