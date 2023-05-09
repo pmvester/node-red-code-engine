@@ -70,7 +70,7 @@ Click on "Quick edit".
 
 ![i026.png](/images/i026.png)
 
-Replace the example code with the code snippet that you just copied. In the code, replace `<<application FQDN>>` with the Code Engine public domain name that you took note of in the previous step.
+Replace the example code with the code snippet that you just copied. In the code, replace `<<application FQDN>>` with the Code Engine public domain name that you took note of in the previous step. Click "Save and deploy".
 
 ![i028.png](/images/i028.png)
 
