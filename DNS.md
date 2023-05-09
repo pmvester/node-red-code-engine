@@ -1,4 +1,4 @@
-# Setting up IBM Cloud Internet Services
+# Configuring IBM Cloud Internet Services
 ## Pre-requisites
 - Access to an instance of IBM Cloud Internet Services.
 - Having procured a domain name.
