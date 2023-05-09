@@ -1,4 +1,11 @@
-# Setting up Cloudflare
+# Configuring Cloudflare
+
+## Pre-requisites
+- Having signed up for a Cloudflare account.
+- Having procured a domain name and moved its administration to Cloudflare.
+- Having completed the [Instantiating Node-RED on IBM Cloud Code Engine](CE.md) part.
+
+## Instructions
 
 Find and click on your domain.
 
